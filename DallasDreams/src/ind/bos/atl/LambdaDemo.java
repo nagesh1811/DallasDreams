@@ -11,6 +11,7 @@ public class LambdaDemo {
 		A obj;
 		obj = i -> System.out.println("Hello\t" + i);
 		obj.show(9);
+		
 
 	}
 
