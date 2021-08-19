@@ -7,6 +7,7 @@ public class SquaresOfSortedArray {
         int[] output = FetchSquaresOfSortedArray(input);
         for(int k:output) {
             System.out.print(", "+k);
+
         }
     }
 
